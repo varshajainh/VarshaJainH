@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varsha Jain H</h1>
-<h3 align="center">A passionate software tester</h3>
+<h3 align="center">Senior QA Automation Engineer with 14+ years of experience driving quality engineering across financial, retail, and manufacturing domains. I specialize in API testing, automation frameworks, and CI/CD integration, with hands-on expertise in Selenium, RestAssured, Postman, and Playwright. I’m passionate about building scalable test solutions, mentoring teams, and fostering a quality-first mindset. Lifelong learner, ISTQB certified, and always exploring new tools to elevate testing strategy.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> https://www.linkedin.com/in/varsha-jain-00503433/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
